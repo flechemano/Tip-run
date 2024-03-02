@@ -1,0 +1,20 @@
+{
+  "name": "tip-run",
+  "version": "0.0.1",
+  "description": "A utility tool for running tips on your command line interface.",
+  "author": "flechemano",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flechemano/Tip-run"
+  },
+  "bugs": {
+    "url": "https://github.com/flechemano/Tip-run/issues"
+  },
+  "homepage": "https://github.com/flechemano/Tip-run",
+  "dependencies": {
+    "npm": "^8.0.0",
+    "lodash": "^4.17.21",
+    "express": "^4.17.1"
+  }
+}
